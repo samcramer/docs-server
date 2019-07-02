@@ -1,0 +1,12 @@
+= Eventing Service: Fundamentals
+
+[abstract]
+Add a short summary for this page, typically 50–160 characters in length. Include primary and secondary keywords for SEO
+
+This is a new paragraph.
+Start adding the content here.
+
+== Heading2 - Add a section title here
+
+This is the first paragraph in the section
+
