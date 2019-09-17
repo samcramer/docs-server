@@ -1,5 +1,6 @@
 = Role Based Admin Access (RBAC)
 :page-aliases: rest-bucket-auth
+:page-edition: enterprise edition
 
 [abstract]
 Full Administrators can manage the Couchbase _Role-Based Access Control_ (RBAC) system, using the REST API.

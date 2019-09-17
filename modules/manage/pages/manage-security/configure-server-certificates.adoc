@@ -1,4 +1,5 @@
 = Configure Server Certificates
+:page-edition: enterprise edition
 
 [abstract]
 Couchbase Server Enterprise Edition supports X.509 certificates, for

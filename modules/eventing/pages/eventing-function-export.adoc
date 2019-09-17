@@ -1,4 +1,5 @@
 = Exporting Functions
+:page-edition: enterprise edition
 
 [abstract]
 Couchbase provides an option to export Functions as a JSON document.

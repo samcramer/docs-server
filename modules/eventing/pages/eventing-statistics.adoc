@@ -1,4 +1,5 @@
 = Statistics
+:page-edition: enterprise edition
 
 [abstract]
 Eventing Statistics, for each deployed Function, can be fetched from an Eventing node using the Web Console.

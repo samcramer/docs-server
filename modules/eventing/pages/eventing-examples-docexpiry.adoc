@@ -1,4 +1,5 @@
 = Document Expiry and Archival
+:page-edition: enterprise edition
 
 *Goal*: When a document in an existing bucket is about to expire, a new document is created in a newly created bucket.
 

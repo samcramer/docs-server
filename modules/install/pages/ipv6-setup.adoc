@@ -1,4 +1,5 @@
 = Using IPv6 With Couchbase
+:page-edition: enterprise edition
 
 [abstract]
 Couchbase Server supports IP version 6 (IPv6).

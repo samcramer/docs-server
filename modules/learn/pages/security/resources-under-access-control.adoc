@@ -1,5 +1,6 @@
 = Resources Under Access Control
 :page-aliases: security:security-resources-under-access-control
+:page-edition: enterprise edition
 
 [abstract]
 Couchbase Server applies RBAC to a defined set of _resources_.

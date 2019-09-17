@@ -1,4 +1,5 @@
 = Externally Based Authentication
+:page-edition: enterprise edition
 
 [abstract]
 Externally

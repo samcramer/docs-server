@@ -1,4 +1,5 @@
 = Functions REST API
+:page-edition: enterprise edition
 
 [abstract]
 The Functions REST API, available by default at port 8096, provides the methods available to work with Couchbase Functions.

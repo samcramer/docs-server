@@ -1,4 +1,5 @@
 = Adding a Couchbase Function
+:page-edition: enterprise edition
 
 [abstract]
 To add a new Function, proceed as follows:

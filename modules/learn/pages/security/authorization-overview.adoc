@@ -1,5 +1,6 @@
 = Authorization
 :page-aliases: security:security-authorization,security:security-bucket-protection
+:page-edition: enterprise edition
 
 [abstract]
 For authorizing users, Couchbase Server provides _Role-Based Access Control_.

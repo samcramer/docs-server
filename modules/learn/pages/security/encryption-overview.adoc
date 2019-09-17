@@ -1,4 +1,5 @@
 = Encryption
+:page-edition: enterprise edition
 
 [abstract]
 Couchbase Server uses _encryption_, to protect data.

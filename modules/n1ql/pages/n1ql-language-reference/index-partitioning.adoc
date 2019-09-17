@@ -1,4 +1,5 @@
 = Index Partitioning
+:page-edition: enterprise edition
 :octet: ###
 :port: ####
 

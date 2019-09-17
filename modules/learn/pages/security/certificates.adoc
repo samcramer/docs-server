@@ -1,5 +1,6 @@
 = Certificates
 :page-aliases: security:security-certs-auth,security:security-encryption
+:page-edition: enterprise edition
 
 [abstract]
 Couchbase Server supports x.509 certificates for client and server.

@@ -1,4 +1,5 @@
 = XDCR Filtering
+:page-edition: enterprise edition
 
 [abstract]
 XDCR Filtering allows a limited subset of documents to be replicated from the source bucket.

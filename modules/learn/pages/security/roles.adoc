@@ -1,5 +1,6 @@
 = Roles
 :page-aliases: security:security-roles,security:concepts-rba,security:concepts-rba-for-apps,security:rbac-ro-user
+:page-edition: enterprise edition
 
 [abstract]
 A Couchbase _role_ permits one or more _resources_ to be accessed according to defined _privileges_.

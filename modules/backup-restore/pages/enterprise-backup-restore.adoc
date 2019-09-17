@@ -1,4 +1,5 @@
 = cbbackupmgr Tool
+:page-edition: enterprise edition
 
 [abstract]
 The [.cmd]`cbbackupmgr` tool is a utility to help manage and store backup and recovery data on disk for your Couchbase Server.

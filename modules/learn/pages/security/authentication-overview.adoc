@@ -1,5 +1,6 @@
 = Authentication
 :page-aliases: security:security-authentication,security:security-ldap-new
+:page-edition: enterprise edition
 
 [abstract]
 To access Couchbase Server, administrators and applications must be authenticated.

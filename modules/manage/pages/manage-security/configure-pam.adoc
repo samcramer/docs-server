@@ -1,5 +1,6 @@
 = Configure PAM
 :page-aliases: security:security-pam-auth
+:page-edition: enterprise edition
 
 [abstract]
 _Pluggable Authentication Modules_ (PAM) provide an authentication framework that allows multiple, low-level authentication schemes to be used by a single API.
