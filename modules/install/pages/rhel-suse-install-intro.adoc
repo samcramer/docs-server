@@ -213,6 +213,13 @@ For example:
 wget https://packages.couchbase.com/cb-non-package-installer/cb-non-package-installer
 ----
 
+. Make the `cb-non-package-installer` script executable.
++
+[source,bash]
+----
+chmod +x cb-non-package-installer
+----
+
 . Run the `cb-non-package-installer` script, to install Couchbase Server.
 The following example assumes that the RPM is located in the current working directory, and that the intended install-location is a directory named `couchbase-home`, which is in the current working directory.
 +
