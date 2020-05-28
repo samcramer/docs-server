@@ -229,7 +229,7 @@ When installation is complete, the following notification is displayed:
 Successfully installed
 ----
 
-Couchbase Server can now be started and stopped, and its status can be checked, by means of commands located in the `/opt/couchbase/bin` directory, located under the specified install-location (which in this case, is `couchbase-home`).
+Couchbase Server can now be started and stopped, and its status can be checked, by means of commands located in the `opt/couchbase/bin` directory, located under the specified install-location (which in this case, is `couchbase-home`).
 Therefore, assuming that the current working directory is `./couchbase-home/opt/couchbase/bin`:
 
 * To run the server, use:
